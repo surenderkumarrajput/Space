@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3522e4f0bc313f4ca0e3b388d722126, type: 3}
+  m_Name: Neptune
+  m_EditorClassIdentifier: 
+  planetName: Neptune
+  planetPlace: 8th
+  material: {fileID: 2100000, guid: 0f882b4b05eb9bb429dd589fca885c97, type: 2}
+  Mass: 10.243 x 10^25
+  Size: 24,622 km
+  Scale: 0.078
+  mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+  OrbitalVelocity: 5.4
+  NumberofMoons: 14
+  Conclusion: Neptune was the first planet discovered through mathematical calculations,
+    rather than observation.
